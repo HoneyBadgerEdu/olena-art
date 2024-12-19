@@ -2,6 +2,7 @@ baseURL = 'https://honeybadgeredu.github.io/olena-art'
 languageCode = 'en-us'
 title = 'olena.art'
 canonialURL = true
+relativeURL = true
 enableRobotsTXT = true
 
 [menus]

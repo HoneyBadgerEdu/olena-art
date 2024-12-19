@@ -7,7 +7,7 @@
       {{ range where .Site.RegularPages "Type" "arts"}}
       <li class="gallery-item">
         <a href="{{ .Permalink }}">
-          <img src="{{ .Params.image }}" alt="" />
+          <img src="{{absURL .Params.image }}" alt="" />
           <div>{{ .Title }}</div>
         </a>
       </li>

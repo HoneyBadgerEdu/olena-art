@@ -1,5 +1,5 @@
 <header>
-    <div class="logo"><a href="/">olena.art</a></div>
+    <div class="logo"><a href={{ .Site.BaseURL }}>olena.art</a></div>
     <nav>
         {{range site.Menus.main}}
         <a href="{{ .URL }}">{{.Name}}</a>
