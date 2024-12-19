@@ -19,3 +19,16 @@ article {
   font-size: 2rem;
   margin: 0;
 }
+
+@media (max-width: 768px) {
+  article {
+    flex-direction: column;
+  }
+  .image {
+    width: 100%;
+  }
+  .image-text {
+    width: 100%;
+    padding: 0;
+  }
+}
