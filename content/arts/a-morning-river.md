@@ -1,6 +1,6 @@
 ---
 title: A morning river
-image: "/img/a-morning-river.png"
+image: "https://honeybadgeredu.github.io/olena-art/img/a-morning-river.png"
 description:
 ---
 

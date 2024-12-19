@@ -1,6 +1,6 @@
 ---
 title: An old watermill
-image: "/img/an-old-mill.png"
+image: "https://honeybadgeredu.github.io/olena-art/img/an-old-mill.png"
 description: 
 ---
 
