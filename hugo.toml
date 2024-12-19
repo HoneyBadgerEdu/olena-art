@@ -1,0 +1,19 @@
+baseURL = 'https://honeybadgeredu.github.io/olena-art'
+languageCode = 'en-us'
+title = 'olena.art'
+canonialURL = true
+enableRobotsTXT = true
+
+[menus]
+  [[menus.main]]
+    name = 'arts'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'blog'
+    pageRef = '/blog'
+    weight = 20
+  [[menus.main]]
+    name = 'about'
+    pageRef = '/about'
+    weight = 30

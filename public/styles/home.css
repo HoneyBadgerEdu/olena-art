@@ -1,0 +1,28 @@
+.gallery{
+ display: flex;
+ gap:1rem;
+}
+.gallery-list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 1rem;   
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.gallery-item a{
+    display: block;
+    margin-bottom: 1rem;
+    color: var(--main);
+    text-decoration: none;
+    transition: 0.3s;
+}
+.gallery-item a:hover{
+    opacity: 70%;
+}
+.gallery-item img{
+    width: 15rem;
+    height: auto;
+    border-radius: 0.5rem;
+}
