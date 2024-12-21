@@ -1,0 +1,7 @@
+.about{
+    min-height: 90vh;
+}
+.about img{
+    width: 100%;
+    border-radius: 15px;
+}

@@ -2,31 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>olena.art</title>
-    <link>http://localhost:1313/olena-art/</link>
+    <link>https://helelev.com/</link>
     <description>Recent content on olena.art</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/olena-art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://helelev.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>A morning river</title>
-      <link>http://localhost:1313/olena-art/arts/a-morning-river/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/olena-art/arts/a-morning-river/</guid>
-      <description>&lt;p&gt;During the winter of 1825, Richard Hamilton―a timid Harvard philosophy student―arrives in St. Louis on business for his father. Robbed and beaten, desperate to save his life, he reluctantly joins the crew of the Maria, a fur trader&amp;rsquo;s keelboat. Bound for the beautiful, wild, and dangerous Indian country of the Upper Yellowstone River, the native Bostonian begins the education and adventure of a lifetime.&lt;/p&gt;</description>
+      <title>Magnificent Alfredo-de-Catto and his tuxedo</title>
+      <link>https://helelev.com/blog/alfredo-de-katto/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://helelev.com/blog/alfredo-de-katto/</guid>
+      <description>&lt;p&gt;Alfredo-de-Catto was no ordinary cat. With his sleek, black fur and a white spot on his chest shaped like a crescent moon, he was known for his elegance and charm. Alfredo lived in a cozy little house at the edge of a bustling town. Though he had everything a cat could want—a comfy bed, tasty food, and plenty of sunshine—he often felt that something was missing.&lt;/p&gt;&#xA;&lt;p&gt;Alfredo-de-Catto loved to watch the birds outside his window, but he had no interest in catching them like the other cats. What Alfredo truly longed for was adventure. He dreamed of exploring the world beyond his little house, discovering new places, and meeting new creatures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A story about little rat</title>
+      <link>https://helelev.com/blog/my-rat-story/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://helelev.com/blog/my-rat-story/</guid>
+      <description>&lt;p&gt;Once upon a time, in a bustling town, lived a small rat named Bibi who dreamed of becoming a chef. While the other rats were content with stealing scraps, Bibi longed for something more—he wanted to create delicious dishes. One day, he followed a tempting aroma to a fancy restaurant called Le Petite Gourmet. Inside, chefs worked skillfully, making food that looked like art.&lt;/p&gt;&#xA;&lt;p&gt;Bibi sneaked in and hid in the kitchen, watching the chefs closely. Over time, he learned how to balance flavors and ingredients. One day, the head chef, Monsieur Jacques, was preparing for a big competition but accidentally ruined his signature sauce. Desperate, he couldn’t figure out what it was missing.&lt;/p&gt;</description>
     </item>
     <item>
       <title>about me</title>
-      <link>http://localhost:1313/olena-art/about/</link>
+      <link>https://helelev.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/olena-art/about/</guid>
-      <description></description>
+      <guid>https://helelev.com/about/</guid>
+      <description>&lt;p&gt;[Intro]&lt;br&gt;&#xA;C minor, put it in C minor&lt;/p&gt;&#xA;&lt;p&gt;[Verse 1]&lt;br&gt;&#xA;Where have all the good men gone&lt;br&gt;&#xA;And where are all the gods?&lt;br&gt;&#xA;Where&amp;rsquo;s the street-wise Hercules&lt;br&gt;&#xA;To fight the rising odds?&lt;br&gt;&#xA;Isn&amp;rsquo;t there a white knight upon a fiery steed?&lt;br&gt;&#xA;Late at night I toss and I turn and I dream&lt;br&gt;&#xA;Of what I need&lt;/p&gt;&#xA;&lt;p&gt;[Chorus]&lt;br&gt;&#xA;I need a hero!&lt;br&gt;&#xA;I&amp;rsquo;m holding out for a hero &amp;rsquo;til the end of the night&lt;br&gt;&#xA;He&amp;rsquo;s gotta be strong&lt;br&gt;&#xA;And he&amp;rsquo;s gotta be fast&lt;br&gt;&#xA;And he&amp;rsquo;s gotta be fresh from the fight&lt;br&gt;&#xA;I need a hero!&lt;br&gt;&#xA;I&amp;rsquo;m holding out for a hero &amp;rsquo;til the morning light&lt;br&gt;&#xA;He&amp;rsquo;s gotta be sure&lt;br&gt;&#xA;And it&amp;rsquo;s gotta be soon&lt;br&gt;&#xA;And he&amp;rsquo;s gotta be larger than life&lt;br&gt;&#xA;Larger than life&lt;/p&gt;</description>
     </item>
     <item>
-      <title>An old watermill</title>
-      <link>http://localhost:1313/olena-art/arts/an-old-watermill/</link>
+      <title>Golova</title>
+      <link>https://helelev.com/arts/2024/golova/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/olena-art/arts/an-old-watermill/</guid>
-      <description>&lt;p&gt;The watermill is the earliest instance of a machine harnessing natural forces to replace human muscular labour (apart from the sail).[3] As such, it holds a special place in the history of technology and also in economic studies where it is associated with growth.&lt;/p&gt;</description>
+      <guid>https://helelev.com/arts/2024/golova/</guid>
+      <description>&lt;p&gt;Golova and 1 uho&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gora</title>
+      <link>https://helelev.com/arts/2024/gora/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://helelev.com/arts/2024/gora/</guid>
+      <description>&lt;p&gt;Gora v nochi&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Japonskoe Zdanie</title>
+      <link>https://helelev.com/arts/2024/japonskoe-zdanie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://helelev.com/arts/2024/japonskoe-zdanie/</guid>
+      <description>&lt;p&gt;Seroie zdanie&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tucha</title>
+      <link>https://helelev.com/arts/2024/tucha/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://helelev.com/arts/2024/tucha/</guid>
+      <description>&lt;p&gt;Seraya tucha&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

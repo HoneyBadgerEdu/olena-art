@@ -1,0 +1,14 @@
+.blog-list{
+    min-height: 70svh;
+}
+.blog-list ul li{
+    padding-bottom:1rem;
+}
+.blog-list ul li a{   
+    text-decoration: none;
+    color: var(--main);
+    transition: 0.3s;
+}
+.blog-list ul li a:hover{
+    opacity: 50%;
+}

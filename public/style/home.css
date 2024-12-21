@@ -1,4 +1,7 @@
-.gallery {
+.gallery-container {
+  min-height: 90svh;
+}
+.gallery-unit {
   margin-top: 2rem;
   display: flex;
   gap: 1rem;
@@ -22,7 +25,18 @@
   opacity: 70%;
 }
 .gallery-item img {
-  width: 15rem;
+  width: 20rem;
   height: auto;
   border-radius: 0.5rem;
+}
+@media (max-width: 600px) {
+  .gallery-unit {
+    flex-direction: column;
+  }
+  .gallery-list {
+    justify-content: center;
+  }
+  .gallery-item img {
+    width: 100%;
+  }
 }

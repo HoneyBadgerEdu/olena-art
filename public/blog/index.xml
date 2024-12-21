@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>olena.art</title>
-    <link>http://localhost:1313/olena-art/blog/</link>
-    <description>Recent content on olena.art</description>
+    <title>A magnificent blog on olena.art</title>
+    <link>https://helelev.com/blog/</link>
+    <description>Recent content in A magnificent blog on olena.art</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/olena-art/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://helelev.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Magnificent Alfredo-de-Catto and his tuxedo</title>
+      <link>https://helelev.com/blog/alfredo-de-katto/</link>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://helelev.com/blog/alfredo-de-katto/</guid>
+      <description>&lt;p&gt;Alfredo-de-Catto was no ordinary cat. With his sleek, black fur and a white spot on his chest shaped like a crescent moon, he was known for his elegance and charm. Alfredo lived in a cozy little house at the edge of a bustling town. Though he had everything a cat could want—a comfy bed, tasty food, and plenty of sunshine—he often felt that something was missing.&lt;/p&gt;&#xA;&lt;p&gt;Alfredo-de-Catto loved to watch the birds outside his window, but he had no interest in catching them like the other cats. What Alfredo truly longed for was adventure. He dreamed of exploring the world beyond his little house, discovering new places, and meeting new creatures.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A story about little rat</title>
+      <link>https://helelev.com/blog/my-rat-story/</link>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://helelev.com/blog/my-rat-story/</guid>
+      <description>&lt;p&gt;Once upon a time, in a bustling town, lived a small rat named Bibi who dreamed of becoming a chef. While the other rats were content with stealing scraps, Bibi longed for something more—he wanted to create delicious dishes. One day, he followed a tempting aroma to a fancy restaurant called Le Petite Gourmet. Inside, chefs worked skillfully, making food that looked like art.&lt;/p&gt;&#xA;&lt;p&gt;Bibi sneaked in and hid in the kitchen, watching the chefs closely. Over time, he learned how to balance flavors and ingredients. One day, the head chef, Monsieur Jacques, was preparing for a big competition but accidentally ruined his signature sauce. Desperate, he couldn’t figure out what it was missing.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

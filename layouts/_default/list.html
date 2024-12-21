@@ -1,18 +1,39 @@
 {{ define "main" }}
 <p style="color: var(--main)">A magnificent place with a peacefull gallery</p>
-<div class="gallery">
+<div class="gallary-container">
+<div class="gallery-unit">
   <div>2024</div>
   <div>
     <ul class="gallery-list">
-      {{ range where .Site.RegularPages "Type" "arts"}}
+      {{ range .Site.RegularPages}}
+      {{ if strings.HasPrefix .File.Dir "arts/2024"}}
       <li class="gallery-item">
         <a href="{{ .Permalink }}">
-          <img src="{{absURL .Params.image }}" alt="" />
+          <img src="{{ .Params.image }}" alt="" />
           <div>{{ .Title }}</div>
         </a>
       </li>
       {{end}}
+      {{ end }}
     </ul>
   </div>
+</div>
+{{/*  <div class="gallery-unit">
+  <div>2025</div>
+  <div>
+    <ul class="gallery-list">
+      {{ range .Site.RegularPages}}
+      {{ if strings.HasPrefix .File.Dir "arts/2025"}}
+      <li class="gallery-item">
+        <a href="{{ .Permalink }}">
+          <img src="{{ .Params.image }}" alt="" />
+          <div>{{ .Title }}</div>
+        </a>
+      </li>
+      {{end}}
+      {{ end }}
+    </ul>
+  </div>
+</div>  */}}
 </div>
 {{ end }}

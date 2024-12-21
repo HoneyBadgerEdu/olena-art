@@ -1,0 +1,12 @@
+{{ define "main" }}
+<h1>blog articles:</h1>
+<div class="blog-list">
+  <ul>
+    {{range where .Site.RegularPages "Type" "blog"}}
+    <li>
+      <a href="{{ .Permalink }}">{{ .Date | time.Format "02 Jan 2006" }} - {{.Title}}</a>
+    </li> 
+    {{end}}
+  </ul>
+</div>
+{{ end }}
