@@ -3,17 +3,15 @@
   <div class="image"><img src="{{.Params.image}}" /></div>
   <div class="image-text">
     <h1>{{.Title}}</h1>
-    <h2>{{.Type}}</h2>
-    <h2>{{ .File.Dir}}</h2>
     {{.Content}}
   </div>
 </article>
-<div class="further">
+{{/*  <div class="further">
   <h2>Further:</h2>
   <ul>
     {{range where .Site.RegularPages "Type" "2024"}}
-    <li><a href=""></a></li>
+    <li><a href="{{.Permalink}}"><img src="{{.Params.image}}" alt=""></a></li>
     {{end}}
   </ul>
-</div>
+</div>  */}}
 {{end}}

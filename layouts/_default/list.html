@@ -6,7 +6,7 @@
   <div>
     <ul class="gallery-list">
       {{ range .Site.RegularPages}}
-      {{ if strings.HasPrefix .File.Dir "arts/2024"}}
+      {{ if strings.HasPrefix .File.Dir "2024"}}
       <li class="gallery-item">
         <a href="{{ .Permalink }}">
           <img src="{{ .Params.image }}" alt="" />
@@ -23,7 +23,7 @@
   <div>
     <ul class="gallery-list">
       {{ range .Site.RegularPages}}
-      {{ if strings.HasPrefix .File.Dir "arts/2025"}}
+      {{ if strings.HasPrefix .File.Dir "2025"}}
       <li class="gallery-item">
         <a href="{{ .Permalink }}">
           <img src="{{ .Params.image }}" alt="" />

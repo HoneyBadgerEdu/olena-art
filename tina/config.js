@@ -78,7 +78,9 @@ export default defineConfig({
       {
         name: "arts",
         label: "arts",
-        path: "content/arts",
+        path: "content",
+        match: { exclude: "{blog/**,about}" },
+        format: "md",
         fields: [
           {
             type: "string",
@@ -108,7 +110,7 @@ export default defineConfig({
         name: "blog",
         label: "blog",
         path: "content/blog",
-        match: {exclude: "_index"},
+        match: { exclude: "_index" },
         format: "md",
         defaultItem: () => {
           return {
@@ -123,7 +125,7 @@ export default defineConfig({
         label: "about me",
         path: "content",
         match: { include: "about" },
-        format: 'md',
+        format: "md",
         defaultItem: () => {
           return {
             layout: "about@blog",

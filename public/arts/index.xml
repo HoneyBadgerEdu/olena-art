@@ -2,38 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arts on olena.art</title>
-    <link>https://helelev.com/arts/</link>
+    <link>http://localhost:1313/arts/</link>
     <description>Recent content in Arts on olena.art</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://helelev.com/arts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Golova</title>
-      <link>https://helelev.com/arts/2024/golova/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://helelev.com/arts/2024/golova/</guid>
-      <description>&lt;p&gt;Golova and 1 uho&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Gora</title>
-      <link>https://helelev.com/arts/2024/gora/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://helelev.com/arts/2024/gora/</guid>
-      <description>&lt;p&gt;Gora v nochi&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Japonskoe Zdanie</title>
-      <link>https://helelev.com/arts/2024/japonskoe-zdanie/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://helelev.com/arts/2024/japonskoe-zdanie/</guid>
-      <description>&lt;p&gt;Seroie zdanie&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tucha</title>
-      <link>https://helelev.com/arts/2024/tucha/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://helelev.com/arts/2024/tucha/</guid>
-      <description>&lt;p&gt;Seraya tucha&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/arts/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
