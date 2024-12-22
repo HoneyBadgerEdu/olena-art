@@ -1,5 +1,5 @@
 ---
-title: Number 1
+title: Num. 1
 image: /img/2024/IMG_0645.jpeg
 ---
 
